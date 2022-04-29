@@ -120,6 +120,7 @@ public class Newshome extends Browser {
 		}
 	 System.out.println("Passed Url"+passcount);
 	 System.out.println("Finsihed testing");
+	 System.out.println("Finishing the test");
 	}
 			}
 
